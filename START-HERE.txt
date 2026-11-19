@@ -1,0 +1,17 @@
+SMUDGE’S LOST & FOUND — COMPLETE TWO-CASE EDITION
+
+Includes Case 001: The Last Train and Case 002: The MAX CRUSH File (Kailee & Yacine).
+
+GITHUB PAGES
+Copy ALL files and the assets folder from this folder directly into your repository root. Replace older files. Do not put them inside another folder. Commit and push to your Pages publishing branch.
+
+If your repository also has an older dist folder, this package replaces the ROOT files used by Pages. Edit the root files going forward.
+
+START CASE 002
+Open the game, tap Cases in the bottom navigation, then The MAX CRUSH File. Or use the personal-file invitation in the Office. No need to finish Case 001. Each case has separate progress.
+
+LOCAL PREVIEW
+From this folder run: python3 -m http.server 8000
+Then open http://localhost:8000
+
+The keepsakes use illustrations and written memories. Personal photographs and voice audio are not embedded.
